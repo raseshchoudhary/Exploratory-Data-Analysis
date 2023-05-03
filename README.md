@@ -26,7 +26,7 @@ Any businessman or supermarket employee who want to visualize the sales of diffe
 
 1.Credit card is the least prefered mode of payment prefered by the customers in all the branches A,B and C.One thing to note is that even in this digital age, most of the customer in Brach C tend to make cash payments.The shopkeerers should ensure that these basic activies go as digital as possible.
 
-2. Food and beverages and fashion accessories have a lower average quantity then the rest of the products. This may be because the store may be giving discounts on the wholesale purchase of these products
+2.Food and beverages and fashion accessories have a lower average quantity then the rest of the products. This may be because the store may be giving discounts on the wholesale purchase of these products
 
 3.the store manager shoud give discounts even on the retail purchase of these product cateogries as there is already a huge demand for these products among customers and espically among men.
 
